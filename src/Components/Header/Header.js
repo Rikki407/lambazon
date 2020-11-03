@@ -6,7 +6,7 @@ import { ShoppingBasket } from '@material-ui/icons';
 
 const Header = () => {
     return (
-        <>
+        
             <div className="header">
                 <img src={amazon_logo} alt="" className="header__logo" />
 
@@ -37,7 +37,7 @@ const Header = () => {
                     </div>
                 </div>
             </div>
-        </>
+        
     );
 };
 
