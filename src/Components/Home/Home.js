@@ -3,7 +3,6 @@ import './Home.css';
 import Product from '../Product/Product';
 
 import prime_banner from '../../prime-banner.jpg';
-import demo_image from '../../demo-image.jpg';
 
 const Home = () => {
     return (
