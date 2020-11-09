@@ -36,7 +36,6 @@ app.post('/payments/create', async (request, response) => {
                 country: 'US',
             },
         },
-        currency: 'usd',
         payment_method_types: ['card'],
     });
 
