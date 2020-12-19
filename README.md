@@ -1,7 +1,7 @@
 # Lambazon (Amazon Clone)
 
 <h2>Project Description </h2>
-<p>Lambazon is an amazon clone built with ReactJS and Firebase Cloud Functions, in which NodeJS (with Express) has been used and Stripe is used to accept credit card payments.
+<p>Lambazon is an amazon clone built with ReactJS and Firebase Cloud Functions
 </p>
 <h2>Screenshots</h2>
 <h3> 1. Sign In/ Register Page </h3>
