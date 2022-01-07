@@ -1,7 +1,7 @@
 # Lambazon (Amazon Clone)
 
 <h2>Project Description </h2>
-<p>Lambazon is an amazon clone built with ReactJS and Firebase Cloud Functions
+<p>Lambazon is an amazon clone built with <strong>ReactJS & Firebase Cloud Functions</strong>
 </p>
 <img src="https://user-images.githubusercontent.com/26832011/148509012-9728d9fb-800f-45af-940b-f086249adfad.gif" width="100%"/>
 
