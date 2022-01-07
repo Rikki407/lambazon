@@ -3,52 +3,8 @@
 <h2>Project Description </h2>
 <p>Lambazon is an amazon clone built with ReactJS and Firebase Cloud Functions
 </p>
-<h2>Screenshots</h2>
-<h3> 1. Sign In/ Register Page </h3>
-<img src="https://lh6.googleusercontent.com/QkHTspgDX9QJaUlpG1SVSkDavsr6F5A1pEJxV3UXE7nyoPQWFUtZPyVoCvk4PVcI1NDDq26KPzEAw_rC0ny7aMtkYIquWpL44dFwLVeM" />
-<h3> 2. Home Page </h3>
-<img src="https://lh5.googleusercontent.com/ZBiPzV8TNgX9M47nBzuXmuJB3yePQ3DF_lCVlPCl7RVPaIiNbyUUhmr0pRz2FE2zoypJUr-mTZDWc1OeqWtLRegt98tSMW5yQGUgeNnU8HDWAhqjkGBxdwToaeZox7a79AYgnkhS" />
-<h3> 3. Basket </h3>
-<img src="https://lh6.googleusercontent.com/-GD5Dv4MxdsTqENwZzVqNgHMtVYPrRGHpxseEGfQXEuFeuH82R92OPoDN64D-DnZzHl5-e-9hMakeyIqIBEMifXKkA0D6F-UWoJtCmWz" />
-<h3> 4. Checkout Page </h3>
-<img src="https://lh4.googleusercontent.com/OuKEABqxXife2sU09IV4syIr-A7dQkRLCjo_LJfJ7FjxqrsZ0ZelbbHaOb-DKsQFgng1Nxf33hdYzTWm7CIP2vY26QLL-mx_tDTdlfyc" />
+<img src="https://user-images.githubusercontent.com/26832011/148509012-9728d9fb-800f-45af-940b-f086249adfad.gif" width="100%"/>
 
-
-## Installation
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 <h2> Hey there! I'm Rishab Lamba. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
